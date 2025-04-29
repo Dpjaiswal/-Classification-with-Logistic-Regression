@@ -17,5 +17,4 @@ Evaluation Metrics Confusion matrix Classification report (precision, recall, F1
 
 Threshold Analysis Precision-recall tradeoff at different thresholds F1-score optimization Visualization of performance metrics across thresholds
 
-# Key Results
-ROC-AUC score: 0.9974 Optimal threshold: 0.40 Best F1 score: 0.98
+
